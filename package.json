@@ -1,11 +1,11 @@
 {
-  "scripts": {
-    "demo": "ts-node hello.ts"
-  },
-  "devDependencies": {
-    "@types/node": "13.7.7",
-    "dayjs": "^1.10.8",
-    "ts-node": "8.6.2",
-    "typescript": "3.8.3"
-  }
+    "scripts": {
+        "start": "ts-node hello.ts"
+    },
+    "devDependencies": {
+        "@types/node": "13.7.7",
+        "dayjs": "^1.10.8",
+        "ts-node": "8.6.2",
+        "typescript": "3.8.3"
+    }
 }
